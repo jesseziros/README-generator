@@ -20,11 +20,6 @@ const questions = [
     },
     {
         type: "input",
-        name: "table",
-        message: "Create your table of contents if applicable:"
-    },
-    {
-        type: "input",
         name: "installation",
         message: "Provide information on how to project was made and designed:"
     },
@@ -44,7 +39,8 @@ const questions = [
         message: "Provide any and all collaborators if applicable:"
     },
     {
-        type: "input",
+        type: "list",
+        choices: ["MIT", "Apache"],
         name: "license",
         message: "What license would you like to use:"
     },
