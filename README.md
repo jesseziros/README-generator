@@ -1,38 +1,40 @@
-# j
-  ![GitHub license](https://img.shields.io/badge/license-Apache-blueviolet.svg)
-  [Custom foo description](#foo)
+# Title
+  READE-ME generator
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blueviolet.svg)
 
   ## Developer:
-  j
+  Jesse Ziros
 
   ## Description
-  j
+    I designed a index.js page that includes a markdown page to create a way to professionally generate a read me.
 
   ## Table
   * [Installation](##Installation)
   * [Usage](##Usage)
+  * [Questions](##Questions)
+  * [Contributing](##Contributing)
+  * [License](##License)
+  * [Test](##Test)
 
   ## Installation
-  j
+      I made an index.js that contains all the questions for the read me and a markdown page that contains the actual lay or the read me page itself.
 
   ## Usage
-  j
+      Once you run the index.js you answer questions that when finished generate a professional read me.
 
   ## Questions
-  j
-  j
-  j
+  If you have any questions contact me at:
+
+  jesseziros@ymail.com
+  
+  *[Github Username]
+  Jesseziros
 
   ## Contributing
-  j
+  N/a
 
   ## License
-  Apache
+  MIT
 
   ## Test
-  j
-
-  ## Github
-  j
-
-  # Foo
+  N/A

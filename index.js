@@ -30,11 +30,6 @@ const questions = [
     },
     {
         type: "input",
-        name: "questions",
-        message: "Input line for questions:"
-    },
-    {
-        type: "input",
         name: "contributing",
         message: "Provide any and all collaborators if applicable:"
     },
